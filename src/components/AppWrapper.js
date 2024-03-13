@@ -1,5 +1,6 @@
 import { auth } from "../firebase /firebase-config.js";
 import { signOut } from "firebase/auth";
+import "../styles/AppWrapper.css";
 
 import Cookies from "universal-cookie";
 
